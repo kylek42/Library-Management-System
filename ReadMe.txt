@@ -1,5 +1,3 @@
-# Library-Management-System
-"# Library-Management-System" 
 Formatting:
 
 Reader Data file:
